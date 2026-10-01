@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Market of Today",
+  "description": "Real-time global market dashboard featuring live price action, interactive technical charts, economic calendar, and market news.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
